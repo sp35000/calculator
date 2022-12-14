@@ -3,8 +3,11 @@
 ## References
 
 [Create a simple calculator app in React | by Krissanawat Kaewsanmuang | Medium](https://kris101.medium.com/create-a-simple-calculator-app-in-react-9fd645bb21ac)
+
 [React Tutorial: Build a Calculator App from Scratch - SitePoint](https://www.sitepoint.com/react-tutorial-build-calculator-app/)
+
 [Convert your existing react js app to android or ios app using the ionic capacitor | by React Developer | How To React | Medium](https://medium.com/how-to-react/convert-your-existing-react-js-app-to-android-or-ios-app-using-the-ionic-capacitor-a127deda75bd)
+
 
 # Getting Started with Create React App
 
