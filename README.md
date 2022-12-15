@@ -8,7 +8,7 @@
 
 [Convert your existing react js app to android or ios app using the ionic capacitor | by React Developer | How To React | Medium](https://medium.com/how-to-react/convert-your-existing-react-js-app-to-android-or-ios-app-using-the-ionic-capacitor-a127deda75bd)
 
-# To build apk-debug without Android Studio
+## To build apk-debug without Android Studio
 
 ```
 from android directory
