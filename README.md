@@ -10,10 +10,11 @@
 
 # To build apk-debug without Android Studio
 
+```
 from android directory
 ./gradlew clean
 ./gradlew installDebug
-
+```
 
 # Getting Started with Create React App
 
